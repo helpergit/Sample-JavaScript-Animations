@@ -1,2 +1,2 @@
 # Sample-JavaScript-Animations
-This is a Javascript animations repository
+This is going to be big.
